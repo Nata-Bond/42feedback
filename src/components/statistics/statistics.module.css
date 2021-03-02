@@ -1,0 +1,12 @@
+.statistics {
+  text-transform: uppercase;
+}
+
+.list {
+  list-style: none;
+}
+
+.listItem {
+  text-align: start;
+  color: #1976d2;
+}
